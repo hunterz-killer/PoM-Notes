@@ -1,6 +1,6 @@
 # PoM-Notes
 
-Chapter 1
+Chapter 1 - [Colab Link](https://colab.research.google.com/drive/1ybR2uBilAM_HLJvd61PvS9w2356xRvyB?usp=sharing) | [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter%201.ipynb)
 
 Chapter 2
 
