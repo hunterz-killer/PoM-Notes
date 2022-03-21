@@ -4,7 +4,7 @@ Chapter 1 - [Colab Link](https://colab.research.google.com/drive/1ybR2uBilAM_HLJ
 
 Chapter 2
 
-Chapter 3
+Chapter 3 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_3.pdf)
 
 Chapter 4
 
