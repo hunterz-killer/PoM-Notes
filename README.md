@@ -12,7 +12,7 @@ Chapter 5
 
 Chapter 6 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter%206.pdf)
 
-Chapter 7
+Chapter 7 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_7.pdf)
 
 Chapter 8
 
