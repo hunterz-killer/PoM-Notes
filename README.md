@@ -28,9 +28,12 @@ Chapter 13
 
 Chapter 14 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter%2014.pdf)
 
-Chapter 15
+Chapter 15 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_15.pdf)
 
-Chapter 16
+Chapter 16 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_16.pdf)
 
 Chapter 17
+
+Chapter 18
+
 
