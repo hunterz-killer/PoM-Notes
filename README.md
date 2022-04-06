@@ -34,6 +34,6 @@ Chapter 16 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main
 
 Chapter 17
 
-Chapter 18
+Chapter 18 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_18.pdf)
 
 
