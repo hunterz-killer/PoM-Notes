@@ -20,7 +20,7 @@ Chapter 9 - [Colab Link](https://colab.research.google.com/drive/1vDZtjtkvLR6Iw9
 
 Chapter 10 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_10.pdf)
 
-Chapter 11
+Chapter 11 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_11.pdf)
 
 Chapter 12 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_12.pdf)
 
