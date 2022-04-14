@@ -8,13 +8,13 @@ Chapter 3 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/
 
 Chapter 4 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_4.pdf)
 
-Chapter 5
+Chapter 5 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_5.pdf)
 
 Chapter 6 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter%206.pdf)
 
 Chapter 7 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_7.pdf)
 
-Chapter 8
+Chapter 8 - [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_8.pdf)
 
 Chapter 9 - [Colab Link](https://colab.research.google.com/drive/1vDZtjtkvLR6Iw9wiM07VaoufMgK8K49X) | [Github Link](https://github.com/hunterz-killer/PoM-Notes/blob/Main/Chapter_9.ipynb)
 
